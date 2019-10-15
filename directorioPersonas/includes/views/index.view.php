@@ -71,6 +71,12 @@
 		                                <input ng-model="persona.direccion" class="form-control" required>
 		                            </div>
 		                        </div>
+		                        <div class="form-group row">
+		                            <div class="col-md-11">
+		                                <label>Telefono</label>
+		                                <input ng-model="persona.telefono" class="form-control" required>
+		                            </div>
+		                        </div>
 		                    </div>
 		                    <div class="modal-footer">
 		                        <button type="submit" class="btn btn-primary">
